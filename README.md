@@ -4,4 +4,4 @@ It is python based machine learning project in which we had built a mood recogni
 
 # Sample Output Image!
 
-![Sample Image](edited image.jpg))
+![Sample Image](edited image.jpg)
